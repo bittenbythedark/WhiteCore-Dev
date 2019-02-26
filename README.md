@@ -1,5 +1,6 @@
 # WhiteCore Sim
 
+test
 The WhiteCore Development Team has moved the original Aurora virtual world server, derived from the OpenSim project, to a new level.
 
 The structure and code base has been heavily revised and is under continual development.
